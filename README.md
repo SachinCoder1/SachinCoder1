@@ -1,3 +1,6 @@
+   ![Visitor Count](https://profile-counter.glitch.me/sachincoder1/count.svg)
+
+
 - 👋 Hi, I’m @SachinCoder1, Working remotely as a Full Stack developer.
 - 👀 I’m a Full Stack Software engineer, Open source contributor, Frontend developer ( React js ) and Backend Developer ( Node js and Express js ) ...
 - 🌱 I’m currently learning Solidity ...
